@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Which country has the highest Hindu population after India?",
+        "options": {
+            "1": "Bhutan",
+            "2": "Sri Lanka",
+            "3": "Myanmar",
+            "4": "Nepal"
+        },
+        "answer": "4"
+    },
+    {
+        "question": "What is subtracted from GDP to arrive at NDP?",
+        "options": {
+            "1": "Subsidies",
+            "2": "Depreciation",
+            "3": "Net indirect taxes",
+            "4": "Net factor income from abroad"
+        },
+        "answer": "2"
+    }
+]
